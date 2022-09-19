@@ -22,11 +22,11 @@ int main() {
                 float e = sin(A);
                 float f = sin(j);
                 float g = cos(A);
-                float h = d + 2;
+                /*float h = d + 2;
                 float D = 1 / (c * h * e + f * g + 5);
                 float l = cos(i);
                 float m = cos(B);
-                float n = sin(B);
+                float n = sin(B);*/
                 float t = c * h * g - f * e;
                 int x = 40 + 30 * D * (l * h * m - t * n);
                 int y = 12 + 15 * D * (l * h * n + t * m);
